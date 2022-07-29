@@ -4,7 +4,6 @@
 I am Cristian Machado, a Cuban resident in Miami FL, recently graduated from Full Stack Web Developer at Henry Bootcamp. I am a proactive person, excellent teammate, organized and responsible.
 I am looking for a challenging and dynamic position to continue
 adding experience and knowledge
-You can find me on twitter as https://twitter.com/cmacha2_08 and on linkedin https://www.linkedin.com/in/cmacha2/
 
 Skills: HTML / CSS / JS / REACT / NODEJS / POSTGRES / MONGODB
 
