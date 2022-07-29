@@ -1,5 +1,4 @@
-### Hi there 👋, Cristian Machado
-#### Full Stack Web Developer
+### Hi there 👋
 ![Full Stack Web Developer](https://i.postimg.cc/sxKbsmQF/untitled-1.png)
 
 I am Cristian Machado, a Cuban resident in Miami FL, recently graduated from Full Stack Web Developer at Henry Bootcamp. I am a proactive person, excellent teammate, organized and responsible.
