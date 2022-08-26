@@ -21,3 +21,4 @@ Skills: HTML / CSS / JS / REACT / NODEJS / POSTGRES / MONGODB
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cmacha2)  
 
 ![Profile views](https://gpvc.arturio.dev/cmacha2)  
+  
