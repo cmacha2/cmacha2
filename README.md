@@ -15,7 +15,7 @@ Skills: HTML / CSS / JS / REACT / NODEJS / POSTGRES / MONGODB
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cmacha2&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cmacha2)  
-
+ 
 ![GitHub metrics](https://metrics.lecoq.io/cmacha2)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cmacha2)  
