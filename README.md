@@ -22,3 +22,4 @@ Skills: HTML / CSS / JS / REACT / NODEJS / POSTGRES / MONGODB
 
 ![Profile views](https://gpvc.arturio.dev/cmacha2)  
   
+ 
